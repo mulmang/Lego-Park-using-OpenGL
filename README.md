@@ -12,7 +12,7 @@ Lego Park using OpenGL
 
 ## 실행파일
 ### LegoBlock.cpp
-=>main함수 및 Lego 구현함수
+=> main함수 및 Lego 구현함수
 
 ### Tokenizer.cpp, Tokenizer.h
 => 파일 입출력 시, 토큰화
