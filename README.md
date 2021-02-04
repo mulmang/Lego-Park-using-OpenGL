@@ -5,10 +5,12 @@ Lego Park using OpenGL
 레고 블록을 OpenGL로 구현
 이를 이용하여 조립할 수 있는 시뮬레이터
 
+![그림1](https://user-images.githubusercontent.com/46243547/106851389-7faf0b00-66f9-11eb-901a-af79a41834e2.jpg)
 
 
 
-# 실행파일
+
+## 실행파일
 ### LegoBlock.cpp
 =>main함수 및 Lego 구현함수
 
