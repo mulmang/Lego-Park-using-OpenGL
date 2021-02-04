@@ -6,6 +6,7 @@ Lego Park using OpenGL
 이를 이용하여 조립할 수 있는 시뮬레이터
 
 ![그림1](https://user-images.githubusercontent.com/46243547/106851389-7faf0b00-66f9-11eb-901a-af79a41834e2.jpg)
+![라이트닝](https://user-images.githubusercontent.com/46243547/106857958-44fea000-6704-11eb-9eed-81c5ba0a6495.png)
 
 
 
@@ -29,6 +30,8 @@ Lego Park using OpenGL
 
 ### lego.csv
 export, imoprt시 필요
+![인터페이스](https://user-images.githubusercontent.com/46243547/106857750-edf8cb00-6703-11eb-8a10-29646e1d6890.png)
+
 
 
 ### 참고
