@@ -9,23 +9,23 @@ Lego Park using OpenGL
 
 
 # 실행파일
-## LegoBlock.cpp
+### LegoBlock.cpp
 =>main함수 및 Lego 구현함수
 
-## Tokenizer.cpp, Tokenizer.h
+### Tokenizer.cpp, Tokenizer.h
 => 파일 입출력 시, 토큰화
 
-## DataStream.cpp, DataStream.h
+### DataStream.cpp, DataStream.h
 => 파일 입출력 시 사용
 
 
 
 
-# 실행 GLlego.exe. 실행
+## 실행 GLlego.exe. 실행
 (freeglut.dll(x64) / release x64 빌드) 
 필수로 dll 파일 있어야함
 
-# lego.csv
+### lego.csv
 export, imoprt시 필요
 
 
